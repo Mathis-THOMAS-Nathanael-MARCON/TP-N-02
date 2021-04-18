@@ -1,7 +1,10 @@
 """ MARCON Nathanael 
     THOMAS Mathis
     2PF2
-    TP2 génie mathématique """
+    TP2 génie mathématique 
+    Code du TP1 repris et modifié avec 
+    les fonctions cholesky du TP2 pour tracer 
+    les courbes."""
 
 ########## IMPORTS ##########
 import numpy as np
